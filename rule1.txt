@@ -1,0 +1,4 @@
+R->Sa|a
+Q->Rb|b
+S->Qc|c
+T->aR|aQ|aS
